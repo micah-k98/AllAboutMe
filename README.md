@@ -1,5 +1,6 @@
-#Micah Kashiwabara
-**mc.kashiwabara@gmail.com Phone Number: (40) 274-1830**
+# Micah Kashiwabara  
+
+**mc.kashiwabara@gmail.com Phone Number: (480) 274-1830**
 
 A hardworking and trustworthy employee with 4+ years of experience in customer service. Meticulous, and organized with 2+ years of experience in data entry and processing customer information. Proficient with MS Office and Windows OS; and always open to challenges and ambiguous tasks.
 
@@ -14,14 +15,13 @@ A hardworking and trustworthy employee with 4+ years of experience in customer s
 
 ---
 
-##Experience
+## Experience
 1. **Sales Admin**
     **ACME Control System Corporation**
     **August 2022 - July 2023**
 
     * Processed purchase requests and orders.
     * Organized weekly reports and managed records.
-
 
 2. **Customer Service Representative**
     **Arizona Auto License Services**
